@@ -7,7 +7,7 @@ export const colors = {
   redSoft: '#fef2f2',
   textPrimary: '#1a1c1d',
   muted: '#717182',
-  border: 'rgba(0,0,0,0.1)',
+  border: 'rgba(0,0,0,0.1)'
 };
 
 export const typography = {
@@ -15,15 +15,15 @@ export const typography = {
   sectionTitle: { fontSize: 18, fontWeight: '600' as const },
   body: { fontSize: 16, fontWeight: '400' as const },
   meta: { fontSize: 12, fontWeight: '500' as const },
-  kpi: { fontSize: 30, fontWeight: '600' as const },
+  kpi: { fontSize: 30, fontWeight: '600' as const }
 };
 
 export const radius = {
   input: 10,
   card: 12,
-  sheet: 16,
+  sheet: 16
 };
 
 export const spacing = {
-  touchTarget: 44,
+  touchTarget: 44
 };
